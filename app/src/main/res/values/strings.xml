@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Tarea_2</string>
+    <string name="nameM"> Nombres </string>
+    <string name="apelM"> Aepllidos </string>
+    <string name="ageM"> Edad </string>
+    <string name="emailM"> Correo </string>
+    <string name="sendM"> Enviar Informacion </string>
+    <string name="resp"> Responsable </string>
+    <string name="numC"> Numero de Cuenta </string>
+    <string name="name"> Carlos Wilberto Rodriguez Ruiz</string>
+    <string name="num"> 201910020179 </string>
+    <string name="start"> Iniciar </string>
 </resources>

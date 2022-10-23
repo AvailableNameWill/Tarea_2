@@ -1,0 +1,43 @@
+package com.example.tarea_2.Clases;
+
+public class persona {
+
+    private String nombres;
+    private String apellidos;
+    private double edad;
+    private String correo;
+
+    public persona(){}
+
+    public String getNombres() {
+        return nombres;
+    }
+
+    public void setNombres(String nombres) {
+        this.nombres = nombres;
+    }
+
+    public String getApellidos() {
+        return apellidos;
+    }
+
+    public void setApellidos(String apellidos) {
+        this.apellidos = apellidos;
+    }
+
+    public double getEdad() {
+        return edad;
+    }
+
+    public void setEdad(double edad) {
+        this.edad = edad;
+    }
+
+    public String getCorreo() {
+        return correo;
+    }
+
+    public void setCorreo(String correo) {
+        this.correo = correo;
+    }
+}
